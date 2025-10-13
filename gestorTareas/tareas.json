@@ -1,0 +1,12 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "descripcion": "Nueva descripción",
+      "completada": false,
+      "fecha_creacion": "2025-10-10T14:48:30.1577296-04:00",
+      "fecha_limite": "2025-10-12T00:00:00Z"
+    }
+  ],
+  "siguiente_id": 2
+}
