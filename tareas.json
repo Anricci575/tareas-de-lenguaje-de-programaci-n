@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Mi tarea",
+    "estado": "Vencida",
+    "fecha_limite": "2024-10-01"
+  },
+  {
+    "id": 2,
+    "descripcion": "tarea",
+    "estado": "Vencida",
+    "fecha_limite": "2025-10-20"
+  },
+  {
+    "id": 3,
+    "descripcion": "tarea2",
+    "estado": "Completada",
+    "fecha_limite": "2025-10-20"
+  },
+  {
+    "id": 4,
+    "descripcion": "tarea1",
+    "estado": "Pendiente",
+    "fecha_limite": "2025-11-06"
+  }
+]
